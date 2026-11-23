@@ -1,0 +1,16 @@
+{
+  "url": "https://pares.cultura.gob.es/",
+  "final_url": "https://pares.cultura.gob.es/",
+  "title": "Spanish National Archives (PARES portal)",
+  "fetched_at": "2026-11-23T06:30:57.347925Z",
+  "http_status": "unknown_browser_outerhtml_capture",
+  "content_type": "text/html; browser-rendered-outerHTML",
+  "bytes": 176,
+  "sha256": "17f7ac600ce719ce1066349b0d2bed8f2599b5520ab64ba741104167b63741b2",
+  "provenance": "browser-rendered-outerHTML",
+  "custodian": "OpenCode/browser-fallback",
+  "capture_access": "PUBLIC_CAPTURE_UNAUTHENTICATED",
+  "legal_review_status": "PENDING_LEGAL_REVIEW",
+  "note": "Captured via browser fallback; not authenticated; pending legal review.",
+  "substantive": true
+}

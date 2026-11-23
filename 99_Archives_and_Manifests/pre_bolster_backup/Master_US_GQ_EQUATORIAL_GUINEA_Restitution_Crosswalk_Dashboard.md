@@ -3,7 +3,7 @@
 **Country Key:** US_GQ_EQUATORIAL_GUINEA
 **ISO Code:** GQ/GNQ
 **Historical Arc:** 1968-2026
-**Restitution Pool:** $12.00B
+**Restitution Pool:** TBD (valuation pending)
 **Instruments:** 11
 
 ## Primary Judgment
